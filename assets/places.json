@@ -1,0 +1,26 @@
+{
+    "places": [
+        {
+            "name": "Geopark, China",
+            "description": "Geology lovers and avid Instagrammers alike will be drawn to the otherworldly hues of the \"Rainbow Mountains.\" The colors were formed by the layering of sedimentary mineral deposits over millions of years, but it's hard to look at the flowing reds, yellows, and oranges and not feel like you're witnessing magic.",
+            "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/hbz-zhangye-gettyimages-175323801-1505334995.jpg",
+            "reviews": 10,
+            "score": 4,
+            "tags": [
+                "Secured",
+                "Sunny"
+            ]
+        },
+        {
+            "name": "Venice, Italy",
+            "description": "If traversing the canals with a be-striped gondolier sounds unbearably touristy, stick to the sidewalks and spectacular arched bridges to get your fill of this truly unique, wildly romantic floating city.",
+            "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/hbz-venice-gettyimages-489741024-1505338894.jpg",
+            "reviews": 8,
+            "score": 3,
+            "tags": [
+                "Secured",
+                "Quiet"
+            ]
+        }
+    ]
+}
